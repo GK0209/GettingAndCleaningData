@@ -3,6 +3,7 @@ Getting and Cleaning Data Course Project
 
 ##Goal
 
+The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 Companies like *FitBit, Nike,* and *Jawbone Up* are racing to develop the most advanced algorithms to attract new users. The data linked are collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 A full description is available at the site where the data was obtained:  
@@ -23,15 +24,14 @@ The aim of the project is to clean and extract usable data from the above zip fi
 
 In this repository, you find:
 
-- *run_analysis.R* : the R-code run on the data set
-
-- *Tidy.txt* : the clean data extracted from the original data using *run_analysis.R*
-
 - *CodeBook.md* : the CodeBook reference to the variables in *Tidy.txt*
 
 - *README.md* : the analysis of the code in *run_analysis.R*
 
-- *analysis.html* : the html version of *README.md* that can be accessed at <http://ajay2589.github.io/GettingAndCleaningData/analysis.html>
+- *Tidy.txt* : the clean data extracted from the original data using *run_analysis.R*
+
+- *run_analysis.R* : the R-code run on the data set
+
 
 ## Getting Started
 
